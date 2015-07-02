@@ -1,9 +1,10 @@
-Personnage: Aladdin, young boy living with his monkey Abou
+Personnage z : 
+            Aladdin, young boy living with his monkey Abou
              Jasmine, the young rebelian princess
              Baltazar, the evil magician 
              the magic jinny, 
 	     A parrot that talks all the time
-	     a magic carptet (bordorodokokkino)
+	     a magic carptet, which does not really talks (bordorodokokkino)
 
 Lieu: 
     City of Bagdate (Chalifate)
