@@ -12,3 +12,4 @@
 154803|le roi lion|usr2: l'humour de pumba n'est pas très majestueux... ça vaut au moins 1 étoile en moins.
 154818|le roi lion|usr2: d'ailleurs 5 étoiles sur combien ? si on ne donne pas l'échelle c'est inutile de noter
 154934|blanche neige|usr2: usr7 confond avec la belle au bois dormant... ?
+155116|Aladdin|usr2: up about empty lines ;)
