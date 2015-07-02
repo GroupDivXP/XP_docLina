@@ -12,3 +12,4 @@
 153910|le livre de la jungle|usr7: un chose connue avec tous les chansons de Dinsey
 154025|Les aristochats|usr7: Ca se voit que l'auteur de l'histoire n'aime pas les chiens...
 154226|blanche neige|usr7: What happend with the seven dwarfs? Did they won in the battle of five armies with Mr Bankins?
+154634|le livre de la jungle|usr7: Yes
