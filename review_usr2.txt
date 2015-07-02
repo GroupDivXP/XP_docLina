@@ -14,3 +14,4 @@
 154934|blanche neige|usr2: usr7 confond avec la belle au bois dormant... ?
 155116|Aladdin|usr2: up about empty lines ;)
 155248|blanche neige|usr2: you have to add a critic for this movie !!!!
+155408|le livre de la jungle|usr2: Ne saute pas de lignes dans l'histoire, saute 2 lignes entre chaque section
