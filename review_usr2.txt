@@ -3,3 +3,4 @@
 152637|Aladdin|usr2: remove the space before the personnages name and go to a new line for each pers
 152708|Aladdin|usr2: don't write anything after the title "Lieu" , "Huistoire" etc
 153044|Cendrillon|usr2: go to a new line for each character
+153327|blanche neige|usr2: sauter 2 lignes entre chaque section
