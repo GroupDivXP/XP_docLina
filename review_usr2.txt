@@ -7,3 +7,4 @@
 153439|Aladdin|usr2: do not let empty lines inside "story" , let 2 empty lines between each section ?
 153558|Cendrillon|usr2: the mouses and the birds !
 153631|Cendrillon|usr2: do not write anything after the title of each section "Personnages" "Histoire" ...
+153804|le roi lion|usr2: histoire ligne 4 "eoil" -> poil
