@@ -3,6 +3,7 @@ Personnage: Aladdin, young boy living with his monkey Abou
              Baltazar, the evil magician 
              the magic jinny, 
 	     A parrot that talks all the time
+	     a magic carptet (bordorodokokkino)
 
 Lieu: 
     City of Bagdate (Chalifate)
