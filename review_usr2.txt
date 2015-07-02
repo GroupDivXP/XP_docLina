@@ -1,2 +1,3 @@
 152432|Les aristochats|usr2: faire un retour à la ligne pour chaque personnage différents ?
 152533|Les aristochats|usr2: (review inutile) vivement l'hiver alors !
+152637|Aladdin|usr2: remove the space before the personnages name and go to a new line for each pers
