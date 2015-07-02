@@ -4,3 +4,4 @@
 152708|Aladdin|usr2: don't write anything after the title "Lieu" , "Huistoire" etc
 153044|Cendrillon|usr2: go to a new line for each character
 153327|blanche neige|usr2: sauter 2 lignes entre chaque section
+153439|Aladdin|usr2: do not let empty lines inside "story" , let 2 empty lines between each section ?
