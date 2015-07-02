@@ -8,3 +8,4 @@
 153558|Cendrillon|usr2: the mouses and the birds !
 153631|Cendrillon|usr2: do not write anything after the title of each section "Personnages" "Histoire" ...
 153804|le roi lion|usr2: histoire ligne 4 "eoil" -> poil
+154646|Les aristochats|usr2: saute encore une ligne après chanson
