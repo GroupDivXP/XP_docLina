@@ -8,3 +8,6 @@
 153558|Cendrillon|usr2: the mouses and the birds !
 153631|Cendrillon|usr2: do not write anything after the title of each section "Personnages" "Histoire" ...
 153804|le roi lion|usr2: histoire ligne 4 "eoil" -> poil
+154646|Les aristochats|usr2: saute encore une ligne après chanson
+154803|le roi lion|usr2: l'humour de pumba n'est pas très majestueux... ça vaut au moins 1 étoile en moins.
+154818|le roi lion|usr2: d'ailleurs 5 étoiles sur combien ? si on ne donne pas l'échelle c'est inutile de noter
