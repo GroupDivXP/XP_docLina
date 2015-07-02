@@ -6,3 +6,4 @@
 152510|le roi lion|usr3: Je ne comprends pas comment un sénario aussi vide a cinq étoiles.
 152656|Aladdin|usr3: Pls translate in French. If you dont speak french, you might as well gtfo of here.
 152744|Aladdin|usr3: offcoarse -> off course
+152754|Aladdin|usr3: show -> saw
