@@ -1,24 +1,22 @@
-Personnages:
-- Blanche Neige: princess du royame qui n'a pas des bonnes relations avec sa belle mère
-- Prince Charmant: prince d'un autre royame
-- Sept nains: sept nains qui habitent ensemble et travaillent dans des mines
-- Evil Queen: belle mère de Blanche Neige.
+Characters:
+- Snow White: kingdom princess.
+- King: the father of Snow White
+- Charming Prince: prince of another kingdom
+- Seven dwafts: seven dwafts that live and work together.
+- Evil Queen: step mother of Snow White
+- Hunter
 
-Histoire:
-Le père de Blanche Neige s'est remarrié et sa belle mère n'est pas très gentille avec elle.
-Le père de Blance Neige la laisse avec sa belle mère.
-Blanche Neige devient une charmante fille et très belle.
-La belle mère de Blanche Neige n'aime pas qu'elle soit la plus belle.
-La belle mère de Blanche Neige demande a quelqu'un de la tuer.
-Blanche n'est pas tue, mais arrive chez les sept nains.
-Elle reste avec eux.
-La belle mère se rendre conte que Blanche Neige est vivant.
-La belle mère vient empoissoner à Blanche Neige.
-Blanche Neigne est empoissonée, et semble morte.
-Le prince charmant arrivé, embrasse Blanche Neige et elle se reveille.
+Plot:
+The king, father of Snow White, gets married with another woman after his wife dies to have a new Queen and give Snow White her a good mother.
+The king dies, and Snow White is left alone with her step mother.
+Snow White becames a very charming young woman, and very pretty.
+The Queen does not love that Snow White is prettier than her.
+The Queen asks the Huunter to kill Snow White.
+The Hunter does not kill Snow White, she gets aways and ends up in the Seven Dwafts house.
+Snow White lives with the Seven Dwafts.
+The Queen goes visit Snow White dressed as an old woman, and gives her a very red apple.
+Snow White eats the apple and falls sleep.
+The charming prince arrives, kiss Snow White and she wakes up.
 
-Lieu:
-Un royame de l'Europe
-
-Avis:
-Beaucoup de cliches, peut-être mauvaise s'on croit tout.
+Place:
+Snow White's kingdom.
