@@ -1,13 +1,13 @@
 Personnages : 
-Pocahontas, Indienne
-John smith, Anglais
-Radd cliff, européen, chef de l'expédition, il est intéressé par l'or
-Meiko, l'espèce de raton laveur qui ne pense qu'à la nourriture
-Le petit pitbull méchant, qui a l'habitude du confort
-Le colibri, animal raisonnable
-Grand mère feuillage, la mamie de Pocahontas est un arbre qui parle...
-La tribu de pocahontas (papa, copine, futur mari de Pocahontas)
-L'équipage du navire (le pote de john smith, le conseiller de Rad Cliff)
+- Pocahontas, Indienne
+- John smith, Anglais
+- Radd cliff, européen, chef de l'expédition, il est intéressé par l'or
+- Meiko, l'espèce de raton laveur qui ne pense qu'à la nourriture
+- Le petit pitbull méchant, qui a l'habitude du confort
+- Le colibri, animal raisonnable
+- Grand mère feuillage, la mamie de Pocahontas est un arbre qui parle...
+- La tribu de pocahontas (papa, copine, futur mari de Pocahontas)
+- L'équipage du navire (le pote de john smith, le conseiller de Rad Cliff)
 
 
 Lieux : 
