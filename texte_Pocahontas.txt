@@ -1,6 +1,6 @@
 Personnages : 
-Pocahontas, indienne
-John smith, européen
+Pocahontas, Indienne
+John smith, Anglais
 Radd cliff, européen, chef de l'expédition, il est intéressé par l'or
 Meiko, l'espèce de raton laveur qui ne pense qu'à la nourriture
 Le petit pitbull méchant, qui a l'habitude du confort
