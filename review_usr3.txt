@@ -17,3 +17,4 @@
 153747|Pocahontas|usr3: Et puis traduis en anglais par respect pour les polyglottes.
 153951|Cendrillon|usr3: You must not ask what will happend, you have to say what will happen. This is stupid
 154412|blanche neige|usr3: usr7 is a joke
+154509|Les aristochats|usr3: L'auteur se mélange clairement les pinceaux entre francais et anglais (cf cat et chat)
