@@ -1,11 +1,11 @@
 Personnages:
-Mowgli, le petit d'hom (the small d'man)
-Baguera, la panthère (the big cat)
-Balou, le gros ours (the big bear)
-Cherkan, le méchant tigre (the naughty tiger)
-Kaaaa, le serpent (the snake)  
-The big monkey, l'orang outan qui grooooove
-The vultures, les vautours 
+-Mowgli, le petit d'hom (the small d'man)
+-Baguera, la panthère (the big cat)
+-Balou, le gros ours (the big bear)
+-Cherkan, le méchant tigre (the naughty tiger)
+-Kaaaa, le serpent (the snake)  
+-The big monkey, l'orang outan qui grooooove
+-The vultures, les vautours 
 
 
 Lieux:
