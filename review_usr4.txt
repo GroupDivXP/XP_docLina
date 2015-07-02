@@ -5,3 +5,4 @@
 154547|Pocahontas|usr4: Il y a aussi "au détour de la rivière"
 154750|le livre de la jungle|usr4: it takes place in India
 154842|le livre de la jungle|usr4: the snake is called Kaa
+155344|Aladdin|usr4: other songs "Je suis ton meilleur ami", "Prince Ali"
