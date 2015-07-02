@@ -2,3 +2,6 @@
 153444|le livre de la jungle|usr4: pourquoi tu traduis tous les mots ?
 153816|Aladdin|usr4: Make a separate section for songs
 154528|Pocahontas|usr4: La première chanson s'appelle "l'air du vent"
+154547|Pocahontas|usr4: Il y a aussi "au détour de la rivière"
+154750|le livre de la jungle|usr4: it takes place in India
+154842|le livre de la jungle|usr4: the snake is called Kaa
